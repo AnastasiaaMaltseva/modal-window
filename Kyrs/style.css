@@ -1,0 +1,23 @@
+h1,h2,h3 {
+    align-self: Arial;
+    margin-bottom: 1.5em ;
+    margin-top: 1em;
+}
+body{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    font-size: 32px;
+}
+table, td, th, tr, caption{
+    border: 1px solid black;
+}
+figcaption{
+    font-style: italic;
+}
+div{
+ float: right;
+
+}

@@ -1,0 +1,45 @@
+.modal-window{
+    width: 450px;
+    height: 350px;
+    background-color: #949494;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+.buttons-window{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.buttons-window > button{
+    width: 120px;
+    height: 20px;
+    border: none;
+}
+.button-red{
+background-color: red;
+border-radius: 20px;
+color: white;
+margin-right: 20px;
+}
+.button-green{
+background-color: green;
+border-radius: 20px;
+color: white;
+margin-left: 20px;
+}
+h1{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
